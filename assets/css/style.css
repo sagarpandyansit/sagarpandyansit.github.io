@@ -63,7 +63,7 @@
 }
 
 .codechef {
-  color: #8b0000;
+  color: #3f0000;
 }
 
 .hackerearth {
@@ -71,7 +71,7 @@
 }
 
 .hackerrank {
-  color: #700000;
+  color: green;
 }
 
 .leetcode {
@@ -92,7 +92,8 @@
 }
 
 .hackerrank:hover {
-  color: #700000;
+  color: white;
+  background-color: green;
 }
 
 .hackerearth:hover {
@@ -104,7 +105,7 @@
 }
 
 .codechef:hover {
-  background-color: #8b0000;
+  background-color: #3f0000;
 }
 
 .github:hover {
