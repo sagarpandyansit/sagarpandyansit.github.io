@@ -67,7 +67,7 @@
 }
 
 .hackerearth {
-  color: #700000;
+  color: gray;
 }
 
 .hackerrank {
@@ -98,7 +98,8 @@
 }
 
 .hackerearth:hover {
-  color: #700000;
+  color: #00003f;
+  background-color: gray;
 }
 
 .angellist:hover {
