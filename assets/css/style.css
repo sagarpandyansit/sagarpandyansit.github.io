@@ -74,6 +74,10 @@
   color: green;
 }
 
+.geeksforgeeks {
+  color: green;
+}
+
 .leetcode {
   color: black;
 }
@@ -93,6 +97,11 @@
 }
 
 .hackerrank:hover {
+  color: white;
+  background-color: green;
+}
+
+.geeksforgeeks:hover {
   color: white;
   background-color: green;
 }
