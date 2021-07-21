@@ -454,7 +454,7 @@ h3 {
   font-weight: 300;
   letter-spacing: 1px;
   margin-top: 2rem;
-/*  text-transform: uppercase;*/
+  text-transform: uppercase;
 }
 
 #experience .card-action {
